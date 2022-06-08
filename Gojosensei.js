@@ -3550,8 +3550,6 @@ case 'allmenu': {
 ┃╠✹ ${prefix}delete
 ┃╠✹ ${prefix}chatinfo
 ┃╠✹ ${prefix}quoted
-┃╠✹ ${prefix}listpc
-┃╠✹ ${prefix}listgc
 ┃╠✹ ${prefix}donate
 ┃╠✹ ${prefix}report [bug]
 ┃╠✹══✪❯ OWNER ❮ ☯︎
@@ -3668,7 +3666,6 @@ case 'allmenu': {
 ┃╠✹ ${prefix}couple
 ┃╠✹ ${prefix}mysoulmate
 ┃╠✹ ${prefix}hot
-┃╠✹ ${prefix}sexy
 ┃╠✹ ${prefix}kind
 ┃╠✹ ${prefix}idiot
 ┃╠✹ ${prefix}handsome
@@ -3765,7 +3762,7 @@ case 'allmenu': {
 ┃╠✹${prefix}masasubur (indo)
 ┃╠✹${prefix}zodiak (indo)
 ┃╠✹${prefix}shio (indo)
-┃╚═══════✍︎𝕂.ℙ𝕣𝕒𝕓𝕙𝕒𝕤𝕙𝕒
+┃╚═══════ Red Dragon
 ┗━❯ *Created By ${ownername}*  𖠌❮━😎`
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
